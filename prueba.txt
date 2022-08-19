@@ -1,2 +1,2 @@
-﻿Este es un archivo para empozar to play con git
+modifico en local ﻿Este es un archivo para empozar to play con git
 Agrego esta línea en la rama1
