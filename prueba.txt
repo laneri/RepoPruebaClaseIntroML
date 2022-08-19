@@ -1,2 +1,2 @@
-modifico en local ﻿Este es un archivo para empozar to play con git
+Modifico esta linea en el remoto s un archivo para empozar to play con git
 Agrego esta línea en la rama1
